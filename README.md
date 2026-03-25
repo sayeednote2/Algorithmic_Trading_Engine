@@ -7,11 +7,11 @@ It focuses on **Renko chart logic**, **custom indicators**, and **live market da
 
 The system is designed for **speed, simplicity, and modular trading strategy development**.
 
-Full End to End trading system:
-1.Dashboarding
-2.Custom proprietary indicators
-3.Signal Generation
-4.Ultra Fast High Frequency(milli second level) Trade Execution.
+Full End to End Trading Engine:
+ 1. 1-second interval Charting.
+ 2. Custom proprietary indicators.
+ 3. Signal Generation.
+ 4. Ultra Fast High Frequency(milli second level) Trade Execution.
 
 ---
 
@@ -51,7 +51,7 @@ project-root/
 
 ---
 
-## 🚀 Souce code is proprietary, for further details contact me:sayeednote2@gmail.com
+## 🚀 Souce code is proprietary, for further details contact me: sayeednote2@gmail.com
 
 ## ⚠️ Disclaimer
 
